@@ -19,7 +19,8 @@ First of all you have to ```clone``` this directory</br></br>
 Then ```cd``` in Evolution-of-mitochondrial-DNA-inheritance-patterns</br></br>
 ```cd R-script-to-draw-trees```</br></br>
 
-Now you are ready to start.
+Now you are ready to start.</br>
+Run tree_maker_with_boxes.R with your files. See examples in repository.
 
 ## Contact me
 
