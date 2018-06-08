@@ -20,7 +20,10 @@ Then ```cd``` in R-script-to-draw-trees</br></br>
 ```cd R-script-to-draw-trees```</br></br>
 
 Now you are ready to start.</br>
-Run tree_maker_with_boxes.R with your files. See examples in repository.
+Run tree_maker_with_boxes.R with your files. See examples in repository.</br></br>
+
+You are expect to recive a plot that can looks like this.</br>
+<img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/Rplot_tree_with_findings.png">
 
 ## Contact me
 
