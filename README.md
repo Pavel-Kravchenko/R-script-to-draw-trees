@@ -16,7 +16,7 @@ Make sure that you have installed all components:
 
 First of all you have to ```clone``` this directory</br></br>
 ```git clone https://github.com/Pavel-Kravchenko/R-script-to-draw-trees/```</br></br>
-Then ```cd``` in Evolution-of-mitochondrial-DNA-inheritance-patterns</br></br>
+Then ```cd``` in R-script-to-draw-trees</br></br>
 ```cd R-script-to-draw-trees```</br></br>
 
 Now you are ready to start.</br>
