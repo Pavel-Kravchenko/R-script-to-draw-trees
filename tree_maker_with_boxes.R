@@ -1,7 +1,7 @@
 library(phytools)
-tree <- read.tree(file = "/home/pavel/Desktop/Work/Project/Poster/tree_newick.txt")
+tree <- read.tree(file = "/home/pavel/Рабочий стол/Work/Project/trees/new_tree_21.10.21.nwk") #/home/pavel/Рабочий стол/Work/Project/R-script-to-draw-trees/tree_newick.txt")
 library(readr)
-for_tree_table <- read_csv("/home/pavel/Desktop/Work/Project/Poster/for_tree_table.csv", col_names = FALSE, trim_ws = FALSE)
+for_tree_table <- read_csv("/home/pavel/Рабочий стол/Work/Project/R-script-to-draw-trees/for_tree_table.csv", col_names = FALSE, trim_ws = FALSE)
 for_tree_table
 X<-data.frame(for_tree_table)
 colnames(X)<-c("Uniparental maternal", "Uniparental paternal", "Biparental")
